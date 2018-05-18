@@ -1,0 +1,14 @@
+M:\RealTimeProject\DAL\bin\Debug\DAL.dll
+M:\RealTimeProject\DAL\bin\Debug\DAL.pdb
+M:\RealTimeProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+M:\RealTimeProject\DAL\obj\Debug\DAL.dll
+M:\RealTimeProject\DAL\obj\Debug\DAL.pdb
+M:\RealTimeProject\DAL\bin\Debug\BOL.dll
+M:\RealTimeProject\DAL\bin\Debug\BOL.pdb
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\bin\Debug\DAL.dll
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\bin\Debug\DAL.pdb
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\bin\Debug\BOL.dll
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\bin\Debug\BOL.pdb
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\obj\Debug\DAL.dll
+C:\Users\bmrakibul\Downloads\Real-Time-Project-1\RealTimeProject_1\DAL\obj\Debug\DAL.pdb
